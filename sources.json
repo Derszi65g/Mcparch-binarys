@@ -1,0 +1,18 @@
+{
+  "repository": {
+    "name": "official",
+    "author": "dereck",
+    "contact": "N/A"
+  },
+  "precompiled": {
+    "x64_86": {
+      "description": "Build de prueba para x86_64",
+      "url": "https://raw.githubusercontent.com/Derszi65g/Mcparch-binarys/main/mcparch-portable-2025-10-08.tar.gz",
+      "compatibility": {
+        "architectures": [
+          "x86_64"
+        ]
+      }
+    }
+  }
+}
