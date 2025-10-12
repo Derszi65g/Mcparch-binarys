@@ -1,0 +1,17 @@
+{
+  "repository": {
+    "name": "official",
+    "type": "apks",
+    "author": "dereck",
+    "contact": "N/A"
+  },
+  "apks": {
+    "x64_86": {
+      "description": "publicar apks es ilegal",
+      "url": "https://raw.githubusercontent.com/ola-no publicare nada ilegal",
+      "compatibility": {
+        "architectures": ["x86_64"]
+      }
+    }
+  }
+}
