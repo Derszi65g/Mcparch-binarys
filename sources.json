@@ -1,6 +1,7 @@
 {
   "repository": {
     "name": "official",
+    "type": "precompiled",
     "author": "dereck",
     "contact": "N/A"
   },
