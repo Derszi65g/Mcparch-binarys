@@ -1,37 +1,28 @@
-{
-  "repository": {
-    "name": "Binarios-mcparch",
-    "type": "precompiled",
-    "author": "dereck",
-    "contact": "N/A"
-  },
-  "precompiled": {
-    "CachyOS-x64_86": {
-      "description": "compilado en cachyOS",
-      "url": "https://raw.githubusercontent.com/Derszi65g/Mcparch-binarys/main/mcparch-portable-2025-10-08.tar.gz",
-      "compatibility": {
-        "architectures": [
-          "x86_64"
-        ]
-      }
-    },
-    "VOIDLinux-x86_64": {
-      "description": "compilado en VoidLinux",
-      "url": "https://raw.githubusercontent.com/Derszi65g/Mcparch-binarys/main/mcparch-portable-2025-10-15.tar.gz",
-      "compatibility": {
-        "architectures": [
-          "x86_64"
-        ]
-      }
-    },
-    "Test-Build-x86_64": {
-      "description": "Build de prueba",
-      "url": "https://example.com/test-build.tar.gz",
-      "compatibility": {
-        "architectures": [
-          "x86_64"
-        ]
+ {
+       "repository": {
+         "name": "MCPARCH",
+         "type": "precompiled",
+         "author": "dereck",
+         "contact": "N/A"
+       },
+       "precompiled": {
+         "CachyOS-x64_86": {
+          "description": "compilado en cachyOS",
+          "url": "https://raw.githubusercontent.com/Derszi65g/Mcparch-binarys/main/mcparch-portable-2025-10-08.tar.gz",
+          "compatibility": {
+            "architectures": [
+              "x86_64"
+            ]
+          }
+        },
+        "VOIDLinux-x86_64": {
+          "description": "compilado en VoidLinux",
+          "url": "https://raw.githubusercontent.com/Derszi65g/Mcparch-binarys/main/mcparch-portable-2025-10-15.tar.gz",
+          "compatibility": {
+            "architectures": [
+              "x86_64"
+            ]
+          }
+        }
       }
     }
-  }
-}
